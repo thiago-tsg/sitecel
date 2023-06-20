@@ -1,2 +1,1 @@
-Executar o Projeto SiteCel
-https://thiago-tsg.github.io/sitecel/
+<a href="https://thiago-tsg.github.io/sitecel/html/index.html" target="_blank">Executar o projeto "Site Cel"</a>
